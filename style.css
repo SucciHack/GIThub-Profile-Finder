@@ -164,6 +164,7 @@ h2{
     .profile{
         width: 90%;
         margin-top: 35rem;
+        padding-top: 3rem;
     }
     .contain{
         flex-direction: column;
