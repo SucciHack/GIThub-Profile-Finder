@@ -163,7 +163,7 @@ h2{
 @media (max-width: 400px) {
     .profile{
         width: 90%;
-        margin-top: 30rem;
+        margin-top: 35rem;
     }
     .contain{
         flex-direction: column;
